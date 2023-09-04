@@ -1,0 +1,357 @@
+@media screen and (max-width: 1024px) {
+  .Main ul {
+    margin-left: -1rem;
+  }
+    .Pie-Table{
+      margin-left: 0rem;
+    }    
+}
+
+@media screen and (max-width: 950px) {
+    *{
+        scroll-behavior: smooth;
+        --fs-h1:1.625rem;
+        --fs-h2:1.15rem;
+        --fs-h3:1rem;
+        --fs-p:.8rem;
+        --fs-small:0.875rem;
+        --fs-button:1rem;
+      }
+      /* Sidemenu */
+    .Logo{
+      width: 6rem;
+    }
+    .CustomSVG {
+       width: 1rem;
+    }
+
+      /* Ressource */
+      .FileLine{
+        flex-direction: column;
+      }
+ 
+    .Guide h2{
+        line-height: 2rem; 
+    }
+    /* Form */
+    .Parallel{
+      flex-direction: column;
+      }
+
+    /* HomePage */
+    .PageIcons{
+      gap: 1rem;
+      padding: 1rem;   
+    }
+
+    /* Contact */
+
+    .ContactForm{
+      width: 45%;
+    }
+
+    /* Display */
+
+    .CardItem {
+      width: 190px;
+    }
+    .LastCardItem {
+      width: 190px;
+      height: 5rem;
+    }
+    .Impact{
+      gap: 0rem;
+    }
+  }
+
+  @media screen and (max-width: 650px){
+    *{
+        scroll-behavior: smooth;
+        --fs-h1:1.2rem;
+        --fs-h2:1rem;
+        --fs-h3:.9rem;
+        --fs-p:.8rem;
+        --fs-small:0.775rem;
+        --fs-button:.8rem;
+      }
+
+      /* SideMenu */
+
+      .Main {
+          opacity: 0;
+      }
+      .MiniLogo{
+        width: 12rem;
+        margin-bottom: 3rem;
+      }
+      .Secondary {
+        opacity: 1;
+        position: absolute;
+        top: -1%;
+        left: .5%;
+      }
+
+      .Secondary li a.active {
+        background-color: #69C9C9;
+        color: #fff;
+        display: block;
+        width: 2rem;
+      }
+
+      .Secondary li a:hover{
+        padding: .6rem;
+        box-shadow: 0 0.5rem 0.8rem rgba(0, 0, 0, 0.2);
+      }
+
+      .Secondary ul li .Tooltip{
+       position: absolute;
+       line-height: 1.8rem;
+        left: 55%;
+        margin-top: -3.8rem;
+        z-index: 20;
+        color: #69C9C9;
+        background-color: #fff;
+        display: block;
+        border-radius: 20px;
+        transition: color 0.5s, background-color 0.5s;
+        box-shadow: 0 0.5rem 0.8rem rgba(0, 0, 0, 0.2);
+        padding: .5rem;
+        opacity: 0;
+        
+      }
+
+      .Secondary li a:hover .Tooltip{
+        opacity: 1;
+        
+      }
+      
+    /* Homepage */
+       
+      .Accueil p {
+      line-height: 1.5rem; 
+      }
+      .Accueil h2{
+      line-height: 1rem;
+      }
+      .Accueil h1{
+        line-height: 1.8rem;
+        }
+      .content {
+            flex-direction: column;
+          }
+      .image-section {
+         margin-right: 0px;
+         margin-top: .1rem;
+        }
+            
+         .image-section2 {
+         margin-left: 0px;
+         margin-top: .1rem;
+         margin-bottom: .1rem;
+        }
+        .PageIcons{
+            gap: 1rem;
+            padding: .6rem;   
+        }
+        .PageIcons p{
+            font-size: var(--fs-p);
+        }
+
+      /* Form */
+      input {
+        width: 20rem;
+      }
+
+          /* Contact */
+
+    .ContactForm{
+      width: 50%;
+    }
+    .ContactForm input{
+      width: 15rem;
+    }
+    .ContactForm textarea{
+      width: 15rem;
+    }
+
+    /* Display */
+  }
+    
+  @media screen and (max-width: 500px){
+    *{
+      scroll-behavior: smooth;
+      --fs-h1:1.2rem;
+      --fs-h2:.8rem;
+      --fs-h3:.9rem;
+      --fs-p:.8rem;
+      --fs-small:0.6rem;
+      --fs-button:.8rem;
+    }
+
+    /* SideMenu */
+
+    .PageIcons{
+        flex-direction: column;
+        padding: 1.5rem;  
+    }
+    .Secondary {
+        left: -2.2%;
+    }
+    .Secondary ul li .Tooltip{
+       left: 50%;
+    }
+
+    /* Guide */
+    .Guide{
+      padding-right: .1rem;
+    }
+
+    /* Form */
+
+    input {
+      width: 16rem;
+      font-size: var(--fs-small);
+    }
+    /* Popup */
+
+    .Popup-content {
+      background-color: #fff;
+      padding: 20px 50px 0px 40px;
+      width: 43%;}
+
+      .Popup-content button{
+        padding: .2px .2px;
+      }
+      .Display button{
+        padding: 2px 2px;
+      } 
+
+    /* Contact */
+
+    .ContactForm{
+      width: 60%;
+    }
+    .ContactForm input{
+      width: 12rem;
+    }
+    .ContactForm textarea{
+      width: 12rem;
+      height: 8rem;
+    }
+    .Contact button{
+      width: 8rem;
+      margin-top: 1rem;
+    }
+
+    /* Display */
+
+    .HeaderLogo{
+      width: 7rem;
+    }
+    
+    .Pie-Body{
+      gap: 0rem;
+      }
+      
+      .Table-Cards-Body{
+      gap: 0rem;
+      }
+
+
+  }
+  @media screen and (max-width: 450px){
+    *{
+      scroll-behavior: smooth;
+      --fs-h1:1.1rem;
+      --fs-h2:.8rem;
+      --fs-h3:.7rem;
+      --fs-p:.8rem;
+      --fs-small:0.6rem;
+      --fs-button:.8rem;
+    }
+    .Secondary {
+      left: -4%;
+  }
+
+    /* Form */
+      input {
+      width: 13rem;
+    }
+    .Form button {
+      padding: 10px 20px;
+      background-color: #002A5C;
+      color: #fff;
+      width: 150px;
+    }
+    /* Display */
+    .Description-Card {
+      flex-direction: column;
+    }
+
+      .Chart{
+        width: 20rem; 
+      }
+      .BarChart{
+        width: 25rem; 
+      }
+      .Table-Cards-Body{
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      }
+
+      .ImpactCard{
+        display: flex;
+        flex-direction: column;
+      }
+      .Display button{
+        width: 8rem;
+        height: 2rem;
+      }
+  }
+
+
+
+  @media screen and (max-width: 360px){
+    .Secondary {
+      left: -6.5%;
+  }
+  .MiniLogo{
+    width: 10rem;
+    margin-bottom: 3rem;
+  }
+          /* Form */
+
+          input {
+            width: 10rem;
+          }
+
+          /* Display */
+
+          .Canvas{
+            width: 13.5rem;
+          }
+          .CanvasTeam{
+            width: 16rem;
+          }
+
+  }
+
+  @media screen and (max-width: 300px){
+    .Secondary {
+      left: -9%;
+  }
+  /* Contact */
+
+    .ContactForm{
+      width: 60%;
+    }
+    .ContactForm input{
+      width: 10rem;
+    }
+    .ContactForm textarea{
+      width: 10rem;
+      height: 8rem;
+    }
+
+  }
