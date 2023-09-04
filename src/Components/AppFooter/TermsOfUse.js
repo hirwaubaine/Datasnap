@@ -61,7 +61,7 @@ const TermOfUse = ({ onClose }) => {
           </p>
           <h3>Droit applicable et juridiction </h3>
           <p>
-          Ces Conditions sont régies par les lois de [votre juridiction]. Tout litige découlant de ces Conditions sera soumis à la juridiction exclusive des tribunaux de [votre juridiction].
+          Les présentes conditions sont régies par la loi rwandaise n° 50/2018 du 13/08/2018, telle que modifiée. Tout litige découlant de ces conditions sera soumis à la juridiction exclusive des tribunaux rwandais.
           </p>
           <h3>Propriété Intellectuelle </h3>
           <p>
