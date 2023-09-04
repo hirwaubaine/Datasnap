@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { read, write, utils } from 'xlsx';
-import EventData from '../Ressources/EventData.xlsx';
+import EventData from './EventData.xlsx';
 import SideMenu from '../../Components/SideMenu/Index';
 import RessourcesSVG from '../../Images/Ressources2.svg';
 import ArrowDown from '../../Images/arrow-down.svg';

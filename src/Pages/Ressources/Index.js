@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { read, write } from 'xlsx';
-import TeamData from '../Ressources/TeamData.xlsx';
+import TeamData from './TeamData.xlsx';
 import SideMenu from '../../Components/SideMenu/Index';
 import RessourcesSVG from '../../Images/Ressources2.svg';
 import ArrowDown from '../../Images/arrow-down.svg';
