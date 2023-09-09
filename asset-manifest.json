@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/Datasnap/static/css/main.2e3ab799.css",
+    "main.js": "/Datasnap/static/js/main.0c071788.js",
+    "static/js/703.1ee643d4.chunk.js": "/Datasnap/static/js/703.1ee643d4.chunk.js",
+    "static/js/513.1c4d4180.chunk.js": "/Datasnap/static/js/513.1c4d4180.chunk.js",
+    "static/js/787.49616aef.chunk.js": "/Datasnap/static/js/787.49616aef.chunk.js",
+    "static/media/Data-analysis.gif": "/Datasnap/static/media/Data-analysis.9adf7383dad484ab116c.gif",
+    "static/media/DataReport.gif": "/Datasnap/static/media/DataReport.7745251dca4269f7d24d.gif",
+    "static/media/EventData.xlsx": "/Datasnap/static/media/EventData.756a0af2dbc8a5728d91.xlsx",
+    "static/media/ParticipantData.xlsx": "/Datasnap/static/media/ParticipantData.31887318eb7af90884cc.xlsx",
+    "static/media/TeamData.xlsx": "/Datasnap/static/media/TeamData.c28ebd481bba4879a832.xlsx",
+    "static/media/Logo.svg": "/Datasnap/static/media/Logo.d47c01c137cad92f24f0b9a79e83b127.svg",
+    "static/media/Calculator.svg": "/Datasnap/static/media/Calculator.bd57620c94a5e04559e3e726520429e9.svg",
+    "static/media/Calculator2.svg": "/Datasnap/static/media/Calculator2.b48573a5457b863c84fe753ef70b58c6.svg",
+    "static/media/Home.svg": "/Datasnap/static/media/Home.3073bac0df4ad832f34fdf0f5b2c656d.svg",
+    "static/media/Guide.svg": "/Datasnap/static/media/Guide.413f1bf78419f2def5e5e680373cbd26.svg",
+    "static/media/Ressources.svg": "/Datasnap/static/media/Ressources.6ec958f0f5c3bbf5c8884644f8149a27.svg",
+    "static/media/Ressources2.svg": "/Datasnap/static/media/Ressources2.d85781288c2ce3aa8466e05a389a8733.svg",
+    "static/media/Guide2.svg": "/Datasnap/static/media/Guide2.fa490370dc8985068dad01ee8832f009.svg",
+    "static/media/MiniLogo.svg": "/Datasnap/static/media/MiniLogo.c75d50024fe10a5c2d014ee280030ff6.svg",
+    "index.html": "/Datasnap/index.html",
+    "static/media/arrow-down.svg": "/Datasnap/static/media/arrow-down.94906224ba8a4940b6fee7a08697d492.svg",
+    "main.2e3ab799.css.map": "/Datasnap/static/css/main.2e3ab799.css.map",
+    "main.0c071788.js.map": "/Datasnap/static/js/main.0c071788.js.map",
+    "703.1ee643d4.chunk.js.map": "/Datasnap/static/js/703.1ee643d4.chunk.js.map",
+    "513.1c4d4180.chunk.js.map": "/Datasnap/static/js/513.1c4d4180.chunk.js.map",
+    "787.49616aef.chunk.js.map": "/Datasnap/static/js/787.49616aef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e3ab799.css",
+    "static/js/main.0c071788.js"
+  ]
+}
